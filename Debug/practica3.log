@@ -1,0 +1,17 @@
+﻿  Final.cpp
+C:\Users\carlos daniel\Documents\Compu Grafica\2022\p3\Practica3\practica3\practica3\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\carlos daniel\Documents\Compu Grafica\2022\p3\Practica3\practica3\practica3\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlos daniel\Documents\Compu Grafica\2022\p3\Practica3\practica3\practica3\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlos daniel\Documents\Compu Grafica\2022\p3\Practica3\practica3\practica3\Final.cpp(651,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlos daniel\Documents\Compu Grafica\2022\p3\Practica3\practica3\practica3\Final.cpp(652,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlos daniel\Documents\Compu Grafica\2022\p3\Practica3\practica3\practica3\Final.cpp(656,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlos daniel\Documents\Compu Grafica\2022\p3\Practica3\practica3\practica3\Final.cpp(657,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlos daniel\Documents\Compu Grafica\2022\p3\Practica3\practica3\practica3\Final.cpp(659,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlos daniel\Documents\Compu Grafica\2022\p3\Practica3\practica3\practica3\Final.cpp(660,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlos daniel\Documents\Compu Grafica\2022\p3\Practica3\practica3\practica3\Final.cpp(668,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(input.obj)' o en 'C:\Users\carlos daniel\Documents\Compu Grafica\2022\p3\Practica3\practica3\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(monitor.obj)' o en 'C:\Users\carlos daniel\Documents\Compu Grafica\2022\p3\Practica3\practica3\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(window.obj)' o en 'C:\Users\carlos daniel\Documents\Compu Grafica\2022\p3\Practica3\practica3\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_joystick.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_joystick.obj)' o en 'C:\Users\carlos daniel\Documents\Compu Grafica\2022\p3\Practica3\practica3\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_window.obj)' o en 'C:\Users\carlos daniel\Documents\Compu Grafica\2022\p3\Practica3\practica3\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  practica3.vcxproj -> C:\Users\carlos daniel\Documents\Compu Grafica\2022\p3\Practica3\practica3\Debug\practica3.exe
